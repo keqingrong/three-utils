@@ -1,0 +1,11 @@
+*~
+.DS_Store
+.Trashes
+*.log
+*.map
+Thumbs.db
+Pods/
+.idea/
+.vscode/
+node_modules/
+dist/

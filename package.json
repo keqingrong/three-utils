@@ -1,0 +1,19 @@
+{
+  "name": "three-utils",
+  "version": "0.1.0",
+  "description": "three.js utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "keqingrong <keqingrong1992@gmail.com> (https://keqingrong.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "eventemitter3": "^3.0.0",
+    "hammerjs": "^2.0.8"
+  },
+  "peerDependencies": {
+    "three": "^0.88.0"
+  }
+}
